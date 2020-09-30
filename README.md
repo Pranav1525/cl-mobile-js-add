@@ -3,7 +3,8 @@
 ## Instructions
 Fork this repository and write the necessary code in `script.js` to display two prompts each asking for a number as well as a third alert displaying the sum of the two nubmbers. Remember, you can convert string values in to numbers by using javascript's `Number(stringNumber)` function.
 
-Submit the assignment by submitting a pull request. The steps to do that are as follows:
+Submit the assignment by submitting a pull request. 
+The steps to do that are as follows:
 
 1. To start, [**fork** the repository][forking].
 1. [**Clone**][ref-clone] the repository to your computer.
